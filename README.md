@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> 27f64c33059bf344a5a11094eeb520eb02a16878
 # Run Buddy, Inc.
 
 ## Purpose
@@ -13,4 +16,9 @@ https://alanhernandezvillanueva.github.io/runbuddy/
 
 ## Contribution
 Made with ❤️  by Alan Hernandez
+<<<<<<< HEAD
 s
+=======
+
+### ©️2019 Run Buddy, Inc
+>>>>>>> 27f64c33059bf344a5a11094eeb520eb02a16878
