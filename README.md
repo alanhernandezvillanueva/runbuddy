@@ -14,3 +14,4 @@ https://alanhernandezvillanueva.github.io/runbuddy/
 Made with ❤️  by Alan Hernandez
 
 ### ©️2019 Run Buddy, Inc
+
